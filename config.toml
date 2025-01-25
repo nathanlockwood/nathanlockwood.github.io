@@ -24,7 +24,7 @@ googleAnalytics = "UA-12345678-1"
   googleFonts = true
 
   [params.meta]
-    favicon = true
+    favicon = "favicon/favicon.ico"
 
   [params.logo]
     main = "img/logo/logo.svg"
