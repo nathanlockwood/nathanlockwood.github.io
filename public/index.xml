@@ -7,5 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am a skilled and dependable professional providing electrical work and general handyman services in the greater Austin area. I graduated from Texas Tech University in 2020 with a B.E. in Electrical Engineering. Since graduation, I have worked as a commercial electrician and a home security technician. I am now providing freelance services while I focus on my transition into commercial electrical design.&#xA;With a strong focus on attention to detail, I am commited to delivering top-notch quality in every project that I undertake.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>To request a personalized quote, please call me at (737)382-2693, email me at nat.f.lockwood@gmail.com, or fill out the form below.</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>I offer a wide range of electrical and handyman services to meet your needs. Below is a list of my primary services, but my expertise goes beyond what&amp;rsquo;s listed here.&#xA;Electrical Repairs Fixing faulty wiring Replacing switches and outlets Repairing circuit breakers Troubleshooting electrical issues Electrical Installations Light fixtures Outlets and switches Smart home devices Ceiling fan installation General Handyman Services Assembling furniture and equipment Moving heavy items Organizing and decluttering spaces Don&amp;rsquo;t see what you&amp;rsquo;re looking for?</description>
+    </item>
   </channel>
 </rss>
