@@ -8,9 +8,10 @@ module.exports = {
             400: "#9CA3AF",
             700: "#374151",
             800: "#1F2937"
-          }
-        }
-      }
+          },
+          "custom-army-green": "#586d53",
+        },
+      },
     },
     variants: {},
     plugins: [require("@tailwindcss/typography")],
