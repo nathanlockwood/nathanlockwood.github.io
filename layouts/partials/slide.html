@@ -1,0 +1,15 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.slide }}
+        <div class="swiper-slide">
+            <img src="{{ .image }}" alt="{{ .alt }}">
+            <div class="s-fade-txt(text-align: center)">
+                <h1 class="text-[72px] text-white {{ or .color }}" style="font-size: 72px !important;">{{ .title }}</h1>
+                <h2 class="text-4xl text-white {{ or .color }}">{{ .description }}</h2>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>

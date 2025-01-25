@@ -19,7 +19,7 @@ googleAnalytics = "UA-12345678-1"
 
   showBlog = false
   mainSections = ['services', 'about']
-  custom_css = ["contact.css"]
+  custom_css = ["/css/index.css"]
 
   googleFonts = true
 
